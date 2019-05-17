@@ -1,1 +1,1 @@
-# course_clean-architecture
+# Course notes - Clean Architecture
